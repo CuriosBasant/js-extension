@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+*.log
+
+# ts
+tsconfig.tsbuildinfo
+
+# lock files
+yarn.lock
+package-lock.json
+test
